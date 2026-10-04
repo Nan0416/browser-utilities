@@ -1,0 +1,4 @@
+**/*
+!/dist/**
+# Source maps point at src/, so publish it for "go to definition".
+!/src/**
