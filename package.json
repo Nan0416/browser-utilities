@@ -1,6 +1,6 @@
 {
   "name": "@ultrasa/browser-utilities",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Small TypeScript utilities for browser apps: clipboard, JSON downloads, duration formatting, localStorage preferences, a temporary cache, and stage configuration lookup.",
   "main": "dist/lib/index.js",
   "types": "dist/types/index.d.ts",
